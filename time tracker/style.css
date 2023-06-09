@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+}
+.base{
+    color: #ffffff;
+    display: flexbox;
+    padding: 100px;
+    background-color: #000000;
+}
+.cont-principal{
+    width: 180px;
+    height: 230px;
+    padding: 25px;
+    border-radius: 10px;
+    background-color: #1365b1;
+}
+.principal{
+    width: 180px;
+    height: 150px;
+    padding: 25px;
+    border-radius: 10px;
+    background-color: #0a013e;
+}
